@@ -6,7 +6,7 @@ title: Maryhill and Milton Digital Inclusion Programme
 excerpt: 
 lead: Community Safety Glasgow
 website: http://www.communitysafetyglasgow.org/
-email: sean.hanlon@glasgow.gov.uk
+email: sean.hanlon@glasgow.gov.uk or jason.davison@glasgow.gov.uk
 twitter-url: https://twitter.com/CommSafetyGlasg/ 
 facebook-url: https://www.facebook.com/CommSafetyGlasgow/
 start: 16th November 2015
