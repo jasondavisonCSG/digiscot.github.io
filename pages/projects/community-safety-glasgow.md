@@ -153,7 +153,7 @@ Asha is now enrolled for a course with Glasgow Clyde College and is enjoying the
 
 Mark Hawthorne
 
-Mark has been using the learning Centre for over ayear. A frequent user Mark attends most days to conduct his job searches for employment etc….
+Mark has been using the learning Centre for over a year. A frequent user Mark attends most days to conduct his job searches for employment etc….
 In December Mark expressed an Interest in Volunteering within the Learning Centre so we started the application process and I’m pleased to say Mark now commits four hours of his time every week assisting users within the Maryhill Hub Learning Centre. 
 Mark is a trained professional in the Petrol chemical industry and has recently attended an Interview in Germany for post of Strategic Account Manager.
 Whilst Mark awaits the outcome of their decision to appoint him in the role Mark continues to support users on a weekly basis.
