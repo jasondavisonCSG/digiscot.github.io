@@ -66,7 +66,7 @@ On reflection, we have realised that although we endeavour to help with all thin
 ### Service Provision
 
 * Free computer & Internet access.
-* Help with accessing Wi-Fi.
+
 * Assistance in using Bluetooth.
 * Email Account Creation.
 * Sending Emails with attachments.
@@ -119,3 +119,12 @@ Mark has been using the learning Centre for over a year. A frequent user Mark at
 ![Hub LC](images/projects/Hub LC 1.jpg){:.responsive-img}
 
 ![Hub LC](images/projects/Hub LC 2.png){:.responsive-img}
+
+![Pull request review](images/projects/Bob c {:.responsive-img}
+
+![Pull request review](images/projects/Bob c 2 {:.responsive-img}
+
+![Pull request review](images/projects/Jamal Adam ECDL {:.responsive-img}
+
+![Pull request review](images/projects/Mariam Elsadig ECDL {:.responsive-img}
+
